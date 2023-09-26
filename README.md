@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yek-kayra&show_icons=true&locale=en" alt="yek-kayra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yek-kayra&theme=highcontrast" alt="yek-kayra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yek-kayra&theme=highcontrast" alt="YEK-Kayra" /></p>
