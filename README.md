@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Modal Satellites**
 
-- 🌱 I’m currently learning **I’m currently learning to program STM, Atmel microcontroller, and also to visulating sensor datas on screen**
+- 🌱 I’m currently learning **to program STM, Atmel microcontroller, and also to visulating sensor datas on screen**
 
 - 📫 You can reach me on **yunusemrekayra7@gmail.com**
 
