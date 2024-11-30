@@ -10,6 +10,8 @@
 - 📫 You can reach me on **yunusemrekayra7@gmail.com**
 
 - ⚡ Fun fact **No, no, no, focus. Speed. Faster than fast, quicker than quick. I am Lightning.⚡**
+  
+- 💼 Internship/Company **"I can share the software I developed for the model satellite if requested during interviews or job meetings."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
