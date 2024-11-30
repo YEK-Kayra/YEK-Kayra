@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yek-kayra&label=Profile%20views&color=0e75b6&style=flat" alt="yek-kayra" /> </p>
 
-- 🔭 I’m currently working on **Modal Satellites**
+- ⚡ Fun fact **No, no, no, focus. Speed. Faster than fast, quicker than quick. I am Lightning.⚡**
+  
+- 🔭 I worked on **Model Satellites** for two years.
+  
+- 🔭 I’m currently working on **Texas Instruments LAUNCHXL-F28379D** for driving **BLDC/Asenkron motor** 
 
-- 🌱 I’m currently learning **to program STM, Atmel microcontroller, and also to visulating sensor datas on screen**
+- 🌱 I’m currently learning **to program STM32, PIC16F, Atmel microcontroller, and also to visulating sensor datas on screen**
 
 - 📫 You can reach me on **yunusemrekayra7@gmail.com**
-
-- ⚡ Fun fact **No, no, no, focus. Speed. Faster than fast, quicker than quick. I am Lightning.⚡**
   
 - 💼 Internship/Company **"I can share the software I developed for the model satellite if requested during interviews or job meetings."**
 
