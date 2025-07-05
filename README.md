@@ -28,9 +28,6 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 ![PIC](https://img.shields.io/badge/Microchip-PIC-red?style=flat&logo=microchip&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat&logo=Mathworks&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yek-kayra&show_icons=true&locale=en&layout=compact" alt="yek-kayra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yek-kayra&show_icons=true&locale=en" alt="yek-kayra" /></p>
 
 ![Yunus Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEK-Kayra&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEK-Kayra&layout=compact)](https://github.com/YEK-Kayra)
