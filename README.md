@@ -32,4 +32,6 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yek-kayra&show_icons=true&locale=en" alt="yek-kayra" /></p>
 
+![Yunus Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEK-Kayra&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEK-Kayra&layout=compact)](https://github.com/YEK-Kayra)
 
