@@ -7,9 +7,7 @@
   
 - 🔭 I worked on **Model Satellites** for two years.
   
-- 🔭 I’m currently working on **Texas Instruments LAUNCHXL-F28379D** for driving **BLDC/Asenkron motor** 
-
-- 🌱 I’m currently learning **to program STM32, PIC16F, Atmel microcontroller, and also to visulating sensor datas on screen**
+- 🔭 I’m currently working on **Embedded Linux** 
 
 - 📫 You can reach me on **yunusemrekayra7@gmail.com**
   
