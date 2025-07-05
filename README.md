@@ -26,3 +26,12 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yek-kayra&show_icons=true&locale=en&layout=compact" alt="yek-kayra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yek-kayra&show_icons=true&locale=en" alt="yek-kayra" /></p>
+
+### 🛠️ Languages and Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=flat&logo=freertos&logoColor=white)
+![PIC](https://img.shields.io/badge/Microchip-PIC-red?style=flat&logo=microchip&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat&logo=Mathworks&logoColor=white)
