@@ -9,7 +9,7 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
   
 - 🔭 I worked on **Model Satellites** for two years.
   
-- 🔭 I’m currently working on **Embedded Linux** 
+- 🔭 I’m currently working on **Sensor Calibration and IMU modeling** 
 
 - 📫 You can reach me on **yunusemrekayra7@gmail.com**
   
