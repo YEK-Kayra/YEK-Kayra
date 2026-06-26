@@ -5,15 +5,30 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yek-kayra&label=Profile%20views&color=0e75b6&style=flat" alt="yek-kayra" /> </p>
 
-- ⚡ Fun fact **No, no, no, focus. Speed. Faster than fast, quicker than quick. I am Lightning.⚡**
-  
-- 🔭 I worked on **Model Satellites** for two years.
-  
-- 🔭 I’m currently working on **Sensor Calibration and IMU modeling** 
 
-- 📫 You can reach me on **yunusemrekayra7@gmail.com**
-  
-- 💼 Internship/Company **"I can share the software I developed for the model satellite if requested during interviews or job meetings."**
+### 🚀 About Me
+
+- 🎓 Mechatronics Engineering graduate passionate about **autonomous systems, navigation, and embedded software**.
+- 💼 Completed **three internships at DASAL Aviation Technologies**, focusing on embedded software, sensor calibration, simulation, and IMU modeling.
+- 🛰️ Co-founded and led the **TAISAT Model Satellite Team**, developing mission-critical embedded software and telemetry systems.
+- 🧭 Currently working on **Sensor Calibration, IMU Modeling, Navigation Algorithms, and MATLAB/Simulink-based Simulation**.
+- 🌱 Interested in **Sensor Fusion, State Estimation, Kalman Filtering, Autonomous Vehicles, and Control Systems**.
+
+- ### 🛠️ Current Interests
+
+- 📡 MEMS Sensor Modeling
+- 🛰️ Inertial Navigation Systems (INS)
+- 📍 Sensor Fusion & Kalman Filtering
+- 🎯 State Estimation
+- 🤖 Autonomous Systems
+- 🚁 Flight Control Systems
+- 📊 Simulation & System Identification
+
+- ### 📫 Contact
+
+- 📧 **Email:** yunusemrekayra7@gmail.com
+- 💼 **Portfolio:** Available upon request during interviews.
+- 🔗 **LinkedIn:** https://linkedin.com/in/yunus-emre-kayra
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
