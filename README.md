@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm YUNUS EMRE KAYRA</h1>
-<h3 align="center">A passionate Embedded System developer from Türkiye</h3>
-I'm a Mechatronics Engineering student with 2+ years of experience in embedded systems, microcontroller programming (STM, MICROCHIP, TI), and real-time software development. I led the Model Satellite Team at Kocaeli University and currently explore Embedded Linux applications.
+<h1 align="center">Hi 👋, I'm Yunus Emre Kayra</h1>
+<h3 align="center">Mechatronics Engineer | Embedded Software | Navigation & Sensor Fusion</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yek-kayra&label=Profile%20views&color=0e75b6&style=flat" alt="yek-kayra" /> </p>
+---
 
 
 ### 🚀 About Me
