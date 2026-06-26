@@ -13,8 +13,12 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 - 🛰️ Co-founded and led the **TAISAT Model Satellite Team**, developing mission-critical embedded software and telemetry systems.
 - 🧭 Currently working on **Sensor Calibration, IMU Modeling, Navigation Algorithms, and MATLAB/Simulink-based Simulation**.
 - 🌱 Interested in **Sensor Fusion, State Estimation, Kalman Filtering, Autonomous Vehicles, and Control Systems**.
+  
+  ## 📈 GitHub Activity
 
-- ### 🛠️ Current Interests
+> Most of my recent contributions were made to private repositories during my internships and professional projects.
+
+### 🛠️ Current Interests
 
 - 📡 MEMS Sensor Modeling
 - 🛰️ Inertial Navigation Systems (INS)
@@ -24,16 +28,12 @@ I'm a Mechatronics Engineering student with 2+ years of experience in embedded s
 - 🚁 Flight Control Systems
 - 📊 Simulation & System Identification
 
-- ### 📫 Contact
+### 📫 Contact
 
 - 📧 **Email:** yunusemrekayra7@gmail.com
 - 💼 **Portfolio:** Available upon request during interviews.
 - 🔗 **LinkedIn:** https://linkedin.com/in/yunus-emre-kayra
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunus-emre-kayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus emre kayra" height="30" width="40" /></a>
-</p>
 
 ### 🛠️ Languages and Tools
 
